@@ -8,8 +8,8 @@ Since the block synchronization takes time, the data is completely synchronized 
 The RAIN ecological community will, as always, never give up,
 Let us witness the prosperity of RAIN world together.
 Stay tuned, your support is our unlimited driving force!
-                   RAIN.M15
-                   June 4, 2020
+       RAIN.M15
+       June 4, 2020
 ```
 
 ```
