@@ -2,7 +2,12 @@
 
 ```
 To RAIN players:
-     Found a surprise! After the technical community updated the RAIN security system, the smart contract has been fully restored. The system will resume operation on June 4, 2020. Due to the time required for block synchronization, the data is completely synchronized in about 48 hours! The RAIN ecological community will, as always, never give up, let us witness the prosperity of the RAIN world together. Stay tuned, your support is our unlimited driving force!
+     Found a surprise! After the technical community updated the RAIN safety system,
+The smart contract has been fully restored, and the system will resume operation on June 4, 2020.
+Since the block synchronization takes time, the data is completely synchronized in about 48 hours!
+The RAIN ecological community will, as always, never give up,
+Let us witness the prosperity of RAIN world together.
+Stay tuned, your support is our unlimited driving force!
                    RAIN.M15
                    June 4, 2020
 ```
