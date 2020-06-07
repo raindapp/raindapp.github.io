@@ -1,4 +1,4 @@
-# Rain Games client
+# Rain games info
 
 ![Rain](https://raindapp.github.io/images/01.gif "Rain介绍") 
 ![Rain](https://raindapp.github.io/images/02.gif "Rain介绍") 
