@@ -2,6 +2,8 @@
 
 ```
 The RAIN system has been restored, and dividends and order entry are proceeding normally. Hereby inform.
+       RAIN.M15
+       June 7, 2020
 ```
 
 ```
