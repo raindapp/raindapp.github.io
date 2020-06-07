@@ -1,6 +1,10 @@
 #Notice
 
 ```
+The RAIN system has been restored, and dividends and order entry are proceeding normally. Hereby inform.
+```
+
+```
 To RAIN players:
      Found a surprise! After the technical community updated the RAIN safety system,
 The smart contract has been fully restored, and the system will resume operation on June 4, 2020.
